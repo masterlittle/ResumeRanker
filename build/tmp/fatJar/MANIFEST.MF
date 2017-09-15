@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Resume Scorer
+Implementation-Version: 1.0-SNAPSHOT
+Main-Class: ResumeSelector
+

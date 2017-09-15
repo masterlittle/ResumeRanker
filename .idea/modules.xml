@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resume-select.iml" filepath="$PROJECT_DIR$/.idea/modules/resume-select.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resume-select_main.iml" filepath="$PROJECT_DIR$/.idea/modules/resume-select_main.iml" group="resume-select" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/resume-select_test.iml" filepath="$PROJECT_DIR$/.idea/modules/resume-select_test.iml" group="resume-select" />
+    </modules>
+  </component>
+</project>
